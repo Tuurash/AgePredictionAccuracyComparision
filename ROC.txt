@@ -1,0 +1,22 @@
+REPtree 
+TPR      FPR
+0.788    0.101
+NB                 90+
+0.788    0.104
+LAzy LWL           83+
+0.864    0.072
+
+Iterative Classifier Optimizer(meta costsensitiveClassifier)
+0.533    0.254
+
+Jrip
+0.524    0.266 
+
+
+
+
+
+
+
+
+
